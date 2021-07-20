@@ -77,7 +77,7 @@ const createHeader = (param) => {
 	container.append(wrapper);
 
 	return header;
-};
+}; ///TEST
 
 const movieConstructor = (selector, options) => {
 
